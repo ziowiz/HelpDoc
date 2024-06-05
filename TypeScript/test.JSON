@@ -1,0 +1,11 @@
+{
+	"offceId": 45,
+	"isOpened": false,
+	"contacts": {
+		"email": "<EMAIL>",
+		"phone": "+79999999999",
+		"address": {
+			"city": "Москва"
+		}
+	}
+}
